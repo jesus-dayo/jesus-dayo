@@ -1,15 +1,22 @@
 # Welcome to My GitHub Profile 👋
 
-I'm [Jesus Emmanuel Dayo](https://www.your-website.com), a passionate software developer with a focus on [Java, Python,Javascript, ReactJs, NextJs, Langchain].
+I'm [Jesus Emmanuel Dayo](https://www.jeddayo.com) a passionate software developer with a deep love for coding in Java, Python, JavaScript, and harnessing the power of ReactJs, NextJs, and Langchain.
+
+💻 I thrive on crafting elegant solutions to complex problems, turning ideas into code, and creating meaningful software experiences.
+
+🚀 Join me on my journey as I explore the ever-evolving world of technology and build exciting projects. Let's connect, collaborate, and code together!
+
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="profile.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="profile.jpg">
+ <img alt="YOUR-ALT-TEXT" src="profile.jpg" width="250px" height="250px">
 </picture>
 
 🚀 Here are some quick stats about my GitHub activity:
 
-- 🔥 Total Commits: [![Total Commits](https://img.shields.io/github/commit-activity/y/jesus-dayo?style=flat-square)](https://github.com/jesus-dayo)
+- 🔥 Total Commits:
+[Occideas](https://www.occideas.org/about)  - [![Total Commits](https://img.shields.io/github/commit-activity/y/DataScientists/OccIDEAS?style=flat-square)](https://github.com/DataScientists/OccIDEAS)
+
 
 ### Technologies I Work With
 
