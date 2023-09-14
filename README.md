@@ -12,7 +12,7 @@ I'm [Jesus Emmanuel Dayo](https://www.jeddayo.com) a passionate software develop
  <img alt="profile image" src="profile.jpg" width="250px" height="250px">
 </picture>
 
-- 🎥 I’m currently building: **TrackMinder , a tool that track your work and learning, uses modern stack such as NextJS, Langchain, Tailwind, Prisma and Clerk**
+- 🎥 I’m currently building: **TrackMinder , a tool that tracks your work and learning, uses modern stack such as NextJS, Langchain, Tailwind, Prisma and Clerk**
 
 - 🌱 I’m currently learning: **Tensorflow and Pandas**
 
