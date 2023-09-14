@@ -9,8 +9,16 @@ I'm [Jesus Emmanuel Dayo](https://www.jeddayo.com) a passionate software develop
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="profile.jpg">
  <source media="(prefers-color-scheme: light)" srcset="profile.jpg">
- <img alt="YOUR-ALT-TEXT" src="profile.jpg" width="250px" height="250px">
+ <img alt="profile image" src="profile.jpg" width="250px" height="250px">
 </picture>
+
+- 🎥 I’m currently building: **TrackMinder , a tool that track your work and learning, uses modern stack such as NextJS, Langchain, Tailwind, Prisma and Clerk**
+
+- 🌱 I’m currently learning: **Tensorflow and Pandas**
+
+- 🎥 I’m building next: **Nurse PRC - reviewer tool that uses AI to learn the examination and generate mock exams for students**
+
+- 💬 Ask me about **React, Next, Python, Java, AI tools**
 
 ### Technologies I Work With
 
