@@ -12,13 +12,11 @@ I'm [Jesus Emmanuel Dayo](https://www.jeddayo.com) a passionate software develop
  <img alt="profile image" src="profile.jpg" width="250px" height="250px">
 </picture>
 
-- 🎥 I’m currently building: **Intellibuddy https://intellibuddy.vercel.app/ , a tool that tracks your work journal and you can teach your AI, uses modern stack such as NextJS, Langchain, Tailwind, Prisma and Clerk**
-
 - 🌱 I’m currently learning: **Tensorflow and Pandas**
 
-- 🎥 I’m building next: **Nurse PRC - reviewer tool that uses AI to learn the examination and generate mock exams for students**
+- 🎥 I created https://quizaimentor.com : **Free reviewer tool that uses AI to generate quizzes for learners**
 
-- 💬 Ask me about **React, Next, Python, Java, AI tools**
+- 💬 Ask me about **React, NextJs, Typescript, Prisma, LangchainJS, Clerk, PlanetScale, Python, Java, AI tools**
 
 ### Technologies I Work With
 
