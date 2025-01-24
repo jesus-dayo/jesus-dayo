@@ -15,8 +15,10 @@ I'm [Jesus Emmanuel Dayo](https://www.jeddayo.com) a passionate software develop
 - 🌱 I’m currently learning: **Tensorflow and Pandas**
 
 - 🎥 I created https://quizaimentor.com : **Free reviewer tool that uses AI to generate quizzes for learners**
-
-- 💬 Ask me about **React, NextJs, Typescript, Prisma, LangchainJS, Clerk, PlanetScale, Python, Java, AI tools**
+- I created https://intellibuddy.vercel.app for my personal use, no plans yet on making it live due to costing
+- I also have a lot of teaching experience, some of which are https://slides.com/jeddayo/react-testing-library and https://slides.com/jeddayo/cypress
+- I also won 1st place on GSEngage Hackathon https://slides.com/jeddayo/gsengage
+- 💬 Ask me about **React, NextJs, Typescript, Prisma, LangchainJS, Clerk, PlanetScale, Figma, ReactJS, Angular, Python, Java, AI tools**
 
 ### Technologies I Work With
 
